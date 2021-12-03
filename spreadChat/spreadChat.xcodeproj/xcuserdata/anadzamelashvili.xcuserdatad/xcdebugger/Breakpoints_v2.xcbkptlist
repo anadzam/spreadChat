@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE068605-AEDE-457D-B9AF-E0824B14AC37"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "787E9781-CAC1-42C0-80BE-F0E0BA25E8F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "spreadChat/Controllers/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "RegisterViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "787E9781-CAC1-42C0-80BE-F0E0BA25E8F8 - 21000c9aa76139cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spreadChat.RegisterViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; spreadChat.RegisterViewController"
+                  moduleName = "spreadChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anadzamelashvili/Desktop/spreadChat/spreadChat/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "787E9781-CAC1-42C0-80BE-F0E0BA25E8F8 - 7120c51feaf67411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spreadChat.RegisterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; spreadChat.RegisterViewController"
+                  moduleName = "spreadChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anadzamelashvili/Desktop/spreadChat/spreadChat/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "787E9781-CAC1-42C0-80BE-F0E0BA25E8F8 - ed6b90a421b252e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spreadChat.RegisterViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;spreadChat.RegisterViewController&gt;"
+                  moduleName = "spreadChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anadzamelashvili/Desktop/spreadChat/spreadChat/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "787E9781-CAC1-42C0-80BE-F0E0BA25E8F8 - 6b159b749fb2db58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spreadChat.RegisterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;spreadChat.RegisterViewController&gt;"
+                  moduleName = "spreadChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anadzamelashvili/Desktop/spreadChat/spreadChat/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "787E9781-CAC1-42C0-80BE-F0E0BA25E8F8 - 4e67c611953e54da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spreadChat.RegisterViewController.__deallocating_deinit"
+                  moduleName = "spreadChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anadzamelashvili/Desktop/spreadChat/spreadChat/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE2072D6-935A-4432-BC26-1E065403151B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "spreadChat/Controllers/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "loadMessages()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
